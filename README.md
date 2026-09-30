@@ -1,78 +1,78 @@
-### The Ultimate Cross-Platform Personal AI Assistant
+# 🤖 JARVIS-LV-2.0 — Asisten AI Personal Cross-Platform
 
-> **A real-time AI assistant that can hear, see, speak, remember, and control your computer.**
+**JARVIS-LV-2.0** adalah asisten AI personal yang nyata, bisa mendengar, melihat, berbicara, mengingat, dan mengontrol komputer.
 
-**Mark LV** is a JARVIS-style personal AI assistant built with **Python, PyQt6, and Google Gemini Live API**. It provides real-time voice interaction, computer control, persistent memory, visual awareness, browser automation, web search, and a holographic HUD.
+> **Mark LV** adalah asisten gaya JARVIS yang dibuat dengan **Python, PyQt6, dan Google Gemini Live API**. Menyediakan interaksi voice real-time, kendali komputer, memori yang konsisten, pengawasan visual, pencarian web, dan HUD holografis.
 
-Supports **Windows, macOS, and Linux**.
-
----
-
-## 📌 Project Status
-
-> **🟢 Active Development — Mark LV (55)**
-
-| Component                    | Status             |
-| ---------------------------- | ------------------ |
-| 🤖 Core AI Assistant         | 🟢 Working         |
-| 🎙️ Gemini Live Voice        | 🟢 Working         |
-| 🖥️ PyQt6 HUD                | 🟢 Working         |
-| 🧑‍🎤 Holographic Avatar     | 🟢 Working         |
-| 👄 Lip Sync                  | 🟢 Working         |
-| 🧠 Persistent Memory         | 🟢 Working         |
-| 🖥️ Computer Control         | 🟢 Working         |
-| 📂 File Management           | 🟢 Working         |
-| 🌐 Browser Control           | 🟢 Working         |
-| 🔎 Web Search                | 🟢 Working         |
-| 📺 Video HUD                 | 🟢 Working         |
-| 🔌 Plugin System             | 🟢 Working         |
-| ↩️ Undo & Confirmation       | 🟢 Working         |
-| 🎙️ Wake Word                | 🟢 Working         |
-| 📊 System Monitoring         | 🟢 Working         |
-| 🌍 Cross-Platform Support    | 🟡 Ongoing Testing |
-| 🎙️ Voice Interruption       | 🔵 Planned         |
-| 💬 Full Conversation History | 🔵 Planned         |
-| 📱 Additional Integrations   | 🔵 Planned         |
-
-**Current Release:** Mark LV (55)
-**Development:** Active
-**Project Type:** Personal AI Assistant / Desktop AI Agent
-**Architecture:** Modular + Plugin-Based + Cross-Platform
-
-> 🚧 Mark LV is an evolving project. Some advanced features and platform-specific capabilities are still under development and may behave differently depending on the operating system and hardware.
+> **Mendukung:** Windows, macOS, dan Linux.
 
 ---
 
-## ✨ Features
+## 📌 Status Proyek
 
-* 🎙️ **Real-Time Voice AI** — Natural voice conversation using Gemini Live API
-* 🧑‍🎤 **Holographic Avatar** — Software-rendered AI face with facial expressions
-* 👄 **Lip Sync** — Real-time speech-to-mouth animation
-* 👁️ **Vision** — Screen and webcam awareness
-* 🧠 **Persistent Memory** — Locally stored long-term memory
-* 🖥️ **Computer Control** — Apps, volume, brightness, WiFi, shortcuts, windows
-* 📂 **File Management** — Create, move, rename, copy, delete and organize files
-* 🌐 **Browser Control** — Open URLs, navigate and interact with browsers
-* 🔎 **Web Search** — Search, news, research, price and comparison modes
-* 📺 **HUD Video Player** — YouTube, local files and direct video URLs
-* 🪜 **Model Fallback** — Automatic Gemini model fallback with cooldowns
-* ↩️ **Undo** — Reverse supported assistant actions
-* ⚠️ **Human Confirmation** — Confirmation required for irreversible actions
-* 🎙️ **Wake Word** — Local "Hey Jarvis" detection
+> **🟢 Dalam Pengembangan Aktif — Mark LV (55)**
+
+| Komponen                     | Status      |
+| ---------------------------- | ----------- |
+| 🤖 Asisten AI Utama          | 🟢 Berjalan   |
+| 🎙️ Gemini Live Voice         | 🟢 Berjalan   |
+| 🖥️ PyQt6 HUD                 | 🟢 Berjalan   |
+| 🧑‍🎤 Avatar Holografis        | 🟢 Berjalan   |
+| 👄 Lip Sync                   | 🟢 Berjalan   |
+| 🧠 Memori Persisten            | 🟢 Berjalan   |
+| 🖥️ Kendali Komputer           | 🟢 Berjalan   |
+| 📂 Manajemen File             | 🟢 Berjalan   |
+| 🌐 Kendali Browser            | 🟢 Berjalan   |
+| 🔎 Pencarian Web              | 🟢 Berjalan   |
+| 📺 Video HUD                   | 🟢 Berjalan   |
+| 🔌 Sistem Plugin               | 🟢 Berjalan   |
+| ↩️ Undo & Konfirmasi           | 🟢 Berjalan   |
+| 🎙️ Wake Word                  | 🟢 Berjalan   |
+| 📊 Pemantauan Sistem          | 🟢 Berjalan   |
+| 🌍 Dukungan Cross-Platform     | 🟡 Testing Berlangsung |
+| 🎙️ Pemutusan Voice            | 🔅 Direncanakan |
+| 💬 Riwayat Conversasi Penuh   | 🔅 Direncanakan |
+| 📱 Integrasi Tambahan          | 🔅 Direncanakan |
+
+**Rilis Saat Ini:** Mark LV (55)  
+**Pengembangan:** Aktif  
+**Jenis Proyek:** Asisten AI Personal / Agen Desktop  
+**Arsitektur:** Modular + Plugin-Based + Cross-Platform
+
+> 🚧 **Mark LV adalah proyek yang terus berkembang.** Beberapa fitur canggih dan kemampuan khusus platform masih dalam pengembangan dan mungkin perilakunya berbeda tergantung sistem operasi dan hardware.
+
+---
+
+## ✨ Fitur
+
+* 🎙️ **Voice AI Real-time** — Konversasi natural menggunakan Gemini Live API
+* 🧑‍🎤 **Avatar Holografis** — AI face software-rendered dengan ekspresi wajah
+* 👄 **Lip Sync** — Animasi mulut speech-to-realtime
+* 👁️ **Vision** — Kesadaran layar dan webcam
+* 🧠 **Memori Persisten** — Memori lokal untuk jangka panjang
+* 🖥️ **Kendali Komputer** — Aplikasi, volume, kecerahan, shortcut, jendela
+* 📂 **Manajemen File** — Buat, pindah, gantikan, kopi, hapus, dan organisir file
+* 🌐 **Kendali Browser** — Buka URL, navigasi, dan interaksi dengan browser
+* 🔎 **Pencarian Web** — Pencarian, berita, riset, dan mode perbandingan
+* 📺 **Video HUD** — YouTube, file lokal, dan URL video langsung
+* 🪜 **Model Fallback** — Gemini model fallback otomatis dengan cooldown
+* ↩️ **Undo** — Membatalkan tindakan yang didukung
+* ⚠️ **Human Konfirmasi** — Konfirmasi pengguna untuk tindakan yang tidak bisa dikembalikan
+* 🎙️ **Wake Word** — Deteksi "Hey Jarvis" lokal
 * 🎚️ **Push-to-Talk** — `Ctrl + Space`
-* 📊 **Hardware Monitoring** — CPU, RAM, GPU and temperature
-* 🌤️ **Weather** — Live weather information
-* ⏰ **Reminders** — OS-native scheduled reminders
-* 🌅 **Morning Briefing** — Time, previous activity and updates
-* 🔔 **Proactive AI** — Context-aware assistant interactions
-* 🔌 **Plugin System** — Add custom skills through Python plugins
-* 📱 **Remote Dashboard** — Control Mark LV from a phone
-* 🎨 **Live Theming** — Customize HUD colors and appearance
-* 🚀 **Auto-Start** — Launch automatically with the operating system
+* 📊 **Pemantauan Hardware** — CPU, RAM, GPU dan suhu
+* 🌤️ **Weather** — Informasi cuaca live
+* ⏰ **Reminders** — Reminder nativi OS
+* 🌅 **Morning Briefing** — Waktu, aktivitas sebelumnya, dan update
+* 🔔 **Proactive AI** — Interaksi asisten yang sadar konteks
+* 🔌 **Plugin System** — Tambahkan keterampilan kustom melalui plugin Python
+* 📱 **Remote Dashboard** — Kendali Mark LV dari telepon
+* 🎨 **Live Theming** — Sesuaikan warna HUD dan tampilan
+* 🚀 **Auto-Start** — Launch otomatis saat sistem dimulai
 
 ---
 
-## 🧠 Architecture
+## 🧠 Arsitektur
 
 ```text
 User
@@ -93,8 +93,8 @@ User
            │
     ┌──────┼──────┐
     ▼      ▼      ▼
- Computer Memory Plugins
- Control
+Computer Memory Plugins
+Control
     │
     └──────┬──────┘
            ▼
@@ -102,7 +102,7 @@ User
            │
      ┌─────┴─────┐
      ▼           ▼
-  Avatar       Video
+Avatar       Video
      │
      ▼
 Voice Response
@@ -110,7 +110,7 @@ Voice Response
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tumpukan Teknologi
 
 * **Python 3.11–3.13**
 * **Google Gemini Live API**
@@ -124,21 +124,21 @@ Voice Response
 
 ---
 
-## 💻 Requirements
+## 💻 Persyaratan Sistem
 
-| Requirement    | Details                      |
-| -------------- | ---------------------------- |
-| OS             | Windows 10/11, macOS, Linux  |
-| Python         | 3.11 / 3.12 / 3.13           |
-| Microphone     | Required                     |
-| Speakers       | Required                     |
-| Gemini API Key | Required                     |
-| GPU            | Not required                 |
-| Internet       | Required for AI/web features |
+| Persyaratan | Detail |
+| ----------- | ------ |
+| **OS** | Windows 10/11, macOS, Linux |
+| **Python** | 3.11 / 3.12 / 3.13 |
+| **Microphone** | Diperlukan |
+| **Speakers** | Diperlukan |
+| **API Key Gemini** | Diperlukan |
+| **GPU** | Bukan diperlukan |
+| **Internet** | Diperlukan untuk fitur AI/web |
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Memulai Cepat
 
 ### 1. Clone
 
@@ -153,39 +153,39 @@ cd JARVIS-LV-2.0
 python setup.py
 ```
 
-Or:
+Atau:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run
+### 3. Jalankan
 
 ```bash
 python main.py
 ```
 
-Add your Gemini API key when prompted.
+> **Tambahkan kunci API Gemini saat diminta.**
 
 ---
 
-## 🔑 Configuration
+## ⚙️ Konfigurasi
 
-Local configuration is stored in:
+Konfigurasi lokal disimpan di:
 
 ```text
 config/api_keys.json
 ```
 
-Memory is stored in:
+Memori disimpan di:
 
 ```text
 memory/long_term.json
 ```
 
-⚠️ **Never commit API keys, certificates, or personal memory files to GitHub.**
+> ⚠️ **AJAR KOMIT API key, sertifikat, atau file memori pribadi ke GitHub.**
 
-Recommended `.gitignore`:
+`.gitignore` disarankan:
 
 ```gitignore
 config/api_keys.json
@@ -195,7 +195,7 @@ memory/long_term.json
 
 ---
 
-## 📁 Project Structure
+## 📁 Struktur Proyek
 
 ```text
 Mark-LV/
@@ -229,108 +229,105 @@ Mark-LV/
 
 ---
 
-## 🔒 Privacy
+## � Privasi
 
-Mark LV follows a **local-first approach** for configuration and memory.
+JARVIS-LV-2.0 mengikuti **approach local-first** untuk konfigurasi dan memori.
 
-Your:
+*Konfigurasi, memori, dan sertifikat lokal:*
 
-* API configuration
-* Long-term memory
-* Local certificates
+* **Disimpan di mesin Anda.**
 
-are stored on your machine.
-
-**Voice is streamed to Google's Gemini Live API while an active Live session is running.**
+> **Voice di-stream ke API Live Gemini Google sementara sesi aktif.**
 
 ---
 
-## 🛡️ Safety & Control
+## 🛡️ Keamanan & Kontrol
 
-Mark LV separates AI intent from sensitive computer actions.
+JARVIS-LV-2.0 memisahkan **keputusan AI** dari tindakan sensitif komputer.
 
-For example:
+> **Contoh:**
 
 ```text
-AI requests action
-       ↓
-Confirmation shown
-       ↓
-User confirms
-       ↓
-Action executes
+AI meminta tindakan
+      ↓
+Tampilkan konfirmasi
+      ↓
+Penggunnya konfirmasi
+      ↓
+Tindakan dieksekusi
 ```
 
-This helps prevent accidental execution of irreversible operations.
+Ini membantu mencegah eksekusi tidak sengaja dari operasi yang tidak bisa dikembalikan.
 
-Supported reversible actions can also use the **Undo** system.
-
----
-
-## 🗺️ Roadmap
-
-### Planned
-
-* 🎙️ Voice interruption
-* 💬 Full conversation history
-* 📱 Telegram remote control
-* 📂 Advanced file access
-* 📹 Security camera integration
-* 📝 Obsidian integration
-* 🤖 Additional AI models
-* 🔌 More plugins
-* 👁️ Advanced computer vision
-* 🧠 Advanced agentic planning
-* 🔐 Enhanced security controls
+Tindakan yang bisa dikembalikan juga dapat menggunakan sistem **Undo**.
 
 ---
 
-## 🤝 Contributing
+## 🗺️ Jalur Pengembangan (Roadmap)
 
-Contributions are welcome!
+### Rencana
 
-You can contribute through:
-
-* 🐛 Bug reports
-* 💡 Feature requests
-* 🔌 New plugins
-* 🔧 Pull requests
-* 📖 Documentation
-* ⚡ Performance improvements
-* 🌍 Cross-platform fixes
+* 🎙️ **Voice interruption** — Pemutusan voice
+* 💬 **Full conversation history** — Riwayat conversation yang utuh
+* 📱 **Telegram remote control** — Kendali remote via Telegram
+* 📂 **Advanced file access** — Akses file lanjutan
+* 📹 **Security camera integration** — Integrasi kamera keamanan
+* 📝 **Obsidian integration** — Integrasi dengan Obsidian
+* 🤖 **Additional AI models** — Model AI tambahan
+* 🔌 **More plugins** — Plugin lebih banyak
+* 👁️ **Advanced computer vision** — Computer vision yang canggih
+* 🧠 **Advanced agentic planning** — Perencanaan agen yang canggih
+* 🔐 **Enhanced security controls** — Kontrol keamanan yang ditingkatkan
 
 ---
 
-## ⭐ Support
+## 🤝 Kontribusi
 
-If you find **Mark LV** useful:
+Kontribusi sangat dihargai!
 
-⭐ Star the repository
-🐛 Report issues
-💡 Suggest features
-🔧 Contribute
-📢 Share the project
+Anda bisa berkontribusi melalui:
+
+* 🐛 **Laporan bug**
+* � **Permintaan fitur**
+* 🔌 **Plugin baru**
+* 🔧 **Pull requests**
+* 📖 **Dokumentasi**
+* ⚡ **Improvements performa**
+* 🌍 **Perbaikan cross-platform**
+
+---
+
+## ⭐ Dukung Proyek
+
+Jika Anda menemukan **Mark LV** berguna:
+
+⭐ **Star repository**  
+🐛 **Lapor issue**  
+💡 **Suggest fitur**  
+🔌 **Kontribusi**  
+📢 **Bagikan proyek**
+
+---
+
 ## 👨‍💻 Author
 
 ### Ritesh Thakur
 
 GitHub:
-
 ```text
 https://github.com/Ritesh-coder404
 ```
 
 Repository:
-
 ```text
 https://github.com/Ritesh-coder404/JARVIS-LV-2.0
 ```
 
 ---
 
-## 🙏 Acknowledgements
+## 🙏 Pengakuan
 
-Built with the help of:
+Dibangun dengan bantuan:
 
 * Google Gemini
 * Gemini Live API
@@ -340,12 +337,12 @@ Built with the help of:
 * Python
 * PortAudio
 * OpenWakeWord
-* Open-source community
+* Masyarakat open-source
 
 ---
 
-## 📜 License
+## 📜 Lisensi
 
-Add the project's actual license here.
+Tambahkan lisensi proyek aktual di sini.
 
 > **JARVIS-LV-2-0— Hear. See. Remember. Think. Act. 🤖**
